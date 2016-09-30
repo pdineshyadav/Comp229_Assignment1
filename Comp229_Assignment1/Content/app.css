@@ -7,5 +7,6 @@
 
 body { padding-bottom: 70px; background-color: lightblue; background-image: url("img_tree.png"); background-repeat: no-repeat; }
 
+#logo {float: right; margin-left:15px; width:75px; }
 
-
+.imgContainer{ float:left; }
