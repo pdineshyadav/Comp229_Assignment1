@@ -55,10 +55,12 @@
                 <!-- /.container-fluid -->
             </nav>
 
-            <hr>
-            <h1>COMP 229 - Advanced Web Application Development </h1>
-            <h3>Student Name: Dinesh Palle - Student Number: 300705307 </h3>
-            <hr>
+            <div class="col-md-offset-2 col-md-7">
+                <hr>
+                <h2>COMP 229 - Advanced Web Application Development </h2>
+                <h4>Student Name: Dinesh Palle - Student Number: 300705307 </h4>
+                <hr>
+            </div>
         </header>
 
         <!-- Main Content -->

@@ -3,7 +3,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
         <div class="container">
         <div class="row">
-            <div class="col-md-offset-4 col-md-6">
+            <div class="col-md-offset-2 col-md-7">
                 <h1>About Me</h1>
 
                 <img id="MyPic" src="Assets\MyPic.jpg" alt="My Picture">
