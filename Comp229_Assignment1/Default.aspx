@@ -9,8 +9,6 @@
             <div class="jumbotron">
                 <img id="logo" src="Assets\logo.png" alt="Logo">
                 <img id="banner" src="Assets\banner.jpg" alt="Banner">
-                
-
             </div>
 
 
