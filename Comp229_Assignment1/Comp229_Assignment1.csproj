@@ -70,6 +70,9 @@
     <Content Include="Assets\banner.jpg" />
     <Content Include="Assets\logo.png" />
     <Content Include="Assets\MyPic.jpg" />
+    <Content Include="Assets\Project1.png" />
+    <Content Include="Assets\Project2.png" />
+    <Content Include="Assets\Project3.png" />
     <Content Include="Assets\projectsImage.jpg" />
     <Content Include="Assets\servicesImage.png" />
     <Content Include="bin\Comp229_Assignment1.dll" />
