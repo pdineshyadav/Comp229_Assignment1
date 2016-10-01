@@ -74,6 +74,7 @@
     <Content Include="Assets\Project2.png" />
     <Content Include="Assets\Project3.png" />
     <Content Include="Assets\projectsImage.jpg" />
+    <Content Include="Assets\servicesBanner.jpg" />
     <Content Include="Assets\servicesImage.png" />
     <Content Include="bin\Comp229_Assignment1.dll" />
     <Content Include="bin\Comp229_Assignment1.pdb" />
